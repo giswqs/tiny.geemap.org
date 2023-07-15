@@ -1,4 +1,4 @@
-# gh-pages-html-template
+# tiny.geemap.org
 
 A simple template for deploying an HTML website to GitHub Pages
 
